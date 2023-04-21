@@ -1,0 +1,20 @@
+C:\Users\boras\source\repos\MIS321\PA4\obj\Debug\net7.0\PA4.csproj.AssemblyReference.cache
+C:\Users\boras\source\repos\MIS321\PA4\obj\Debug\net7.0\PA4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boras\source\repos\MIS321\PA4\obj\Debug\net7.0\PA4.AssemblyInfoInputs.cache
+C:\Users\boras\source\repos\MIS321\PA4\obj\Debug\net7.0\PA4.AssemblyInfo.cs
+C:\Users\boras\source\repos\MIS321\PA4\obj\Debug\net7.0\PA4.csproj.CoreCompileInputs.cache
+C:\Users\boras\source\repos\MIS321\PA4 v2\obj\Debug\net7.0\PA4.csproj.AssemblyReference.cache
+C:\Users\boras\source\repos\MIS321\PA4 v2\obj\Debug\net7.0\PA4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boras\source\repos\MIS321\PA4 v2\obj\Debug\net7.0\PA4.AssemblyInfoInputs.cache
+C:\Users\boras\source\repos\MIS321\PA4 v2\obj\Debug\net7.0\PA4.AssemblyInfo.cs
+C:\Users\boras\source\repos\MIS321\PA4 v2\obj\Debug\net7.0\PA4.csproj.CoreCompileInputs.cache
+C:\Users\boras\source\repos\MIS321\PA4 v2\bin\Debug\net7.0\PA4.exe
+C:\Users\boras\source\repos\MIS321\PA4 v2\bin\Debug\net7.0\PA4.deps.json
+C:\Users\boras\source\repos\MIS321\PA4 v2\bin\Debug\net7.0\PA4.runtimeconfig.json
+C:\Users\boras\source\repos\MIS321\PA4 v2\bin\Debug\net7.0\PA4.dll
+C:\Users\boras\source\repos\MIS321\PA4 v2\bin\Debug\net7.0\PA4.pdb
+C:\Users\boras\source\repos\MIS321\PA4 v2\obj\Debug\net7.0\PA4.dll
+C:\Users\boras\source\repos\MIS321\PA4 v2\obj\Debug\net7.0\refint\PA4.dll
+C:\Users\boras\source\repos\MIS321\PA4 v2\obj\Debug\net7.0\PA4.pdb
+C:\Users\boras\source\repos\MIS321\PA4 v2\obj\Debug\net7.0\PA4.genruntimeconfig.cache
+C:\Users\boras\source\repos\MIS321\PA4 v2\obj\Debug\net7.0\ref\PA4.dll
